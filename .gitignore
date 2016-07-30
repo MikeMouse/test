@@ -1,0 +1,8 @@
+*.c
+*.class
+target/
+test/
+test_recursive/
+# ignore TODO file in current directory(no recursive)
+/TODO
+
